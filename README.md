@@ -49,7 +49,7 @@ task-tracker/
 │   ├── utils/
 │   │   └── localStorage.js
 │   ├── styles/
-│   │   └── App.css
+│   │   └── gLobal.css
 │   ├── App.js
 │   └── index.js
 ```
@@ -58,30 +58,25 @@ task-tracker/
 
 ## 🖼 Screenshots
 
-> Insert screenshots of your app here  
-> Example: `./screenshots/dashboard.png`
+![image](https://github.com/user-attachments/assets/20cb8e22-1b3e-4685-87ff-5e5683b32523)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/ff2018fc-086f-469c-8ed1-689b8b95a96d)
 
 ---
 
 ## ⚙️ Getting Started
 
-1. Clone the repo:
-   ```
-   git clone https://github.com/your-username/task-tracker.git
-   cd task-tracker
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```
    npm install
    ```
 
-3. Run the app:
+2. Run the app:
    ```
    npm start
    ```
 
-4. Open in browser:
+3. Open in browser:
    ```
    http://localhost:3000
    ```
@@ -90,11 +85,12 @@ task-tracker/
 
 ## 🔗 Live Demo
 
-[Click here to view live](https://your-live-demo-url.netlify.app)
+https://tasktracker06.netlify.app/
 
-> You can deploy on **Netlify** or **Vercel** and paste the link here.
+--
+## Git Repository 
+https://github.com/ANIRBANSAHA6/task_tracker
 
----
 
 ## 📦 Submission Checklist
 
@@ -107,13 +103,3 @@ task-tracker/
 
 ---
 
-## 👤 Author
-
-**Anirban Saha**  
-[GitHub](https://github.com/your-username) • [Email](mailto:your@email.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
